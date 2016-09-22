@@ -1,6 +1,7 @@
 app.js
 !coffeescript/
 coffeescript/*
-!coffeescript/extras/
+!coffeescript/extras
+!coffeescript/extras/*
 env/
 
